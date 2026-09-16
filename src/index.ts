@@ -18,7 +18,7 @@ async function askForPath(): Promise<string> {
 
 async function main(): Promise<void> {
   console.log("Recursive Directory Scanner");
-  console.log("===========================");
+  console.log("----------------------------");
   console.log("");
 
   const pathFromArgs = process.argv[2];

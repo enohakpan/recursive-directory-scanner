@@ -13,7 +13,7 @@ The scanner is written so I could practice TypeScript language syntax in one pla
 
 I also wanted to see how TypeScript’s type checker works in the editor, and how `tsc` converts the same code into JavaScript that Node.js can run.
 
-[Software Demo Video](https://youtu.be/REPLACE_WITH_YOUR_VIDEO)
+[Software Demo Video](https://youtu.be/AKPwIbXc3Ww)
 
 # Development Environment
 
